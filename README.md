@@ -1,5 +1,2 @@
-# action-repo
-This is an assignment for TechStaX
-
-This will be the first commit
-Made changes in dev
+# Sample Repo Made to Test WebHook
+- Add Changes here to test the webhook
